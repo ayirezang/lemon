@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../js.practice"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "lemon"
+  }
+}

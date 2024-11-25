@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../LEMONPAGE"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "lemon"
+  }
+}
